@@ -27,16 +27,22 @@ li{
 }
 
 .text{
-  line-height: 500px;
   font-weight: lighter;
-  position: relative;
+  font-size: 50px;
+  position: relative;top: 5cm;
 }
-
 .item{
   background-color: blue
   ;
-  height: 100px;
-  width: 1000px;
-  position: absolute;
+  height: 150px;
+  width: 950px;
+}
 
+div{
+  position: relative;top: 180px ;
+}
+
+img{
+  position: relative;top: -5cm;left: 18cm;right: 0cm ;
+  bottom: 5cm;
 }
