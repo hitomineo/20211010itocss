@@ -7,9 +7,18 @@ p{
   top: 0px;
   display: flex;
 }
+
 nav{
   margin: 0 0 0 auto;
 }
+
+.tagu{
+  justify-content: center;
+  display: flex;
+  position: relative;top: 0cm;right: 0cm;
+}
+
+
 ul{
   color: blue;
   display: flex;
